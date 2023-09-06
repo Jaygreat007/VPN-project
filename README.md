@@ -62,7 +62,7 @@ Your vpn connection stats:  <br/>
 <img src="https://imgur.com/2oIq2WS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-This screenshot basically confirms that my VPN is working correctly. As you can see my ip address says that I am located in Columbus Ohio.Right now I am located in Charlotte North Carolina:  <br/>
+This screenshot basically confirms that my VPN is working correctly. As you can see my ip address says that I am located in Columbus, Ohio. When I am currently in Charlotte, North Carolina:  <br/>
 <img src="https://imgur.com/Ey8caOR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
